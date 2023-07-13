@@ -28,7 +28,7 @@ body {
   max-width: 1200px;
   display: grid;
   grid-template-columns: repeat(4, 1fr);
-  gap: min(1rem);
+  gap: 1.5em;
 }
 .container > div {
   padding: 25px;
